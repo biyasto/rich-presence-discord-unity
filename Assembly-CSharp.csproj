@@ -52,11 +52,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\ExampleButton.cs" />
      <Compile Include="Assets\Discord\Discord-RPC\DiscordTime.cs" />
      <Compile Include="Assets\Discord\Demo\Exemple.cs" />
-     <Compile Include="Assets\Discord\Discord-RPC\DiscordRpc.cs" />
      <Compile Include="Assets\Discord\Discord-RPC\PresenceManager.cs" />
-     <Compile Include="Assets\ExampleButton.cs" />
+     <Compile Include="Assets\Discord\Discord-RPC\DiscordRpc.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>

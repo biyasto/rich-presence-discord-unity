@@ -770,7 +770,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1405357315}
         m_TargetAssemblyTypeName: ExampleButton, Assembly-CSharp
-        m_MethodName: ClickForTime
+        m_MethodName: Button
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
